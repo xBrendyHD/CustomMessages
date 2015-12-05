@@ -1,0 +1,7 @@
+name: CustomMessages
+main: Brendy.co.MainClass
+version: 1.0
+commands:
+  cm:
+    description: Reload the config
+    usage: /<command>

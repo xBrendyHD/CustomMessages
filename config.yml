@@ -1,0 +1,5 @@
+JoinMessage: '&8[&a&l+&8] &c%player%'
+QuitMessage: '&8[&4&l+&8] &4%player%'
+StaffJoinMessage: true
+StaffMessage: '&8[&b&lStaff&8] &f&l%player% has logged in!'
+StaffMessagePerm: 'CM.Staff'
